@@ -1,0 +1,39 @@
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.exe
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.deps.json
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.runtimeconfig.json
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.runtimeconfig.dev.json
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.dll
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.pdb
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.AssemblyInfoInputs.cache
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.AssemblyInfo.cs
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.csproj.CoreCompileInputs.cache
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.dll
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.pdb
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.genruntimeconfig.cache
+C:\Users\abeer\Desktop\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.csprojAssemblyReference.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.exe
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.deps.json
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.runtimeconfig.json
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.runtimeconfig.dev.json
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.dll
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.pdb
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.csprojAssemblyReference.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.AssemblyInfoInputs.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.AssemblyInfo.cs
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.csproj.CoreCompileInputs.cache
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.dll
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.pdb
+C:\Users\abeer\Desktop\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.genruntimeconfig.cache
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.exe
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.deps.json
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.runtimeconfig.json
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.runtimeconfig.dev.json
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.dll
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\bin\Debug\netcoreapp3.1\Inverted_Index.pdb
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.csprojAssemblyReference.cache
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.AssemblyInfoInputs.cache
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.AssemblyInfo.cs
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.csproj.CoreCompileInputs.cache
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.dll
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.pdb
+C:\Users\abeer\Desktop\College Materials\Assignments [delivered]\Inverted_Index\Inverted_Index\obj\Debug\netcoreapp3.1\Inverted_Index.genruntimeconfig.cache
